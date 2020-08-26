@@ -8,3 +8,7 @@ This will make the systems library of animals bigger -> the chance for a correct
 To start the game, you need to interpred TheAnimalWordGame.hs file and then call the "main" function. This will show you the menu of the game.
 
 This project was made as a part of my Functional Programming course in the Faculty of Mathematics and Informatics.
+
+
+
+_The project was finished in January 2020_ 
